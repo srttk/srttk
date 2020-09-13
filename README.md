@@ -23,7 +23,7 @@ const sarath = {
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Postgres", "mongo","Firebase","sqlite],
-        misc: ["Apollo GraphQL","Firebase", "Socket.IO", "open-cv", "php"]
+        misc: ["Apollo GraphQL","Firebase", "Socket.IO"]
     },
     architecture: ["RestAPI","GraphQL"]
 };
