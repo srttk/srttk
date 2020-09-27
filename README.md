@@ -12,7 +12,7 @@
 const sarath = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Bash"],
-    askMeAbout: ["web dev", "backend","frontend", "Info Sec],
+    askMeAbout: ["web dev", "backend","frontend", "Info Sec"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular","Angular 1.x","Vanilla Javascript"],
