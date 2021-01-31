@@ -11,7 +11,7 @@
 ```javascript
 const sarath = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Bash"],
+    code: ["Javascript", "Typescript", "Golang", "Bash"],
     askMeAbout: ["web dev", "backend","frontend", "Info Sec"],
     technologies: {
         frontEnd: {
