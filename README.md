@@ -25,7 +25,7 @@ const sarath = {
         databases: ["MySQL", "Postgres", "mongo","sqlite"],
         misc: ["Apollo GraphQL","Firebase", "Socket.IO"]
     },
-    architecture: ["RestAPI","GraphQL"]
+    apiArchitecture: ["RestAPI","GraphQL"]
 };
 ```
 
