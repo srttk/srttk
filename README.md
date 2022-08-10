@@ -11,18 +11,18 @@
 ```javascript
 const sarath = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Golang", "Bash"],
-    askMeAbout: ["web dev", "backend","frontend", "Info Sec"],
+    code: ["Javascript", "Typescript", "Go", "Bash"],
+    askMeAbout: ["web dev", "backend","frontend", "Info Sec","CLI Apps"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular","Angular 1.x","Vanilla Javascript"],
             css: ["Tailwindcss","sass","less"]
         },
         backEnd: {
-            js: ["node", "express","nextjs"],
+            js: ["node", "express","next.js","remix.js"],
         },
         devOps: ["Docker🐳", "Nginx"],
-        databases: ["MySQL", "Postgres", "mongo","sqlite"],
+        databases: ["MySQL", "Postgres", "mongo","sqlite","Redis"],
         misc: ["Apollo GraphQL","Firebase", "Socket.IO"]
     },
     apiArchitecture: ["RestAPI","GraphQL"]
