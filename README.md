@@ -15,7 +15,7 @@ const sarath = {
     askMeAbout: ["web dev", "backend","frontend", "Info Sec","CLI Apps"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular","Angular 1.x","Vanilla Javascript"],
+            js: ["React", "Angular","Angular.js (1.x)","Vanilla Javascript"],
             css: ["Tailwindcss","sass","less"]
         },
         backEnd: {
@@ -23,9 +23,10 @@ const sarath = {
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Postgres", "mongo","sqlite","Redis"],
-        misc: ["Apollo GraphQL","Firebase", "Socket.IO"]
+        apiArchitecture: ["RestAPI","GraphQL"],
+        misc: ["Apollo GraphQL","Firebase", "Socket.IO","d3.js"],
     },
-    apiArchitecture: ["RestAPI","GraphQL"]
+   
 };
 ```
 
