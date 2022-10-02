@@ -19,7 +19,7 @@ const sarath = {
             css: ["Tailwindcss","sass","less"]
         },
         backEnd: {
-            js: ["node", "express","next.js","remix.js"],
+            js: ["node", "express","next.js","fastify","remix.js"],
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Postgres", "mongo","sqlite","Redis"],
