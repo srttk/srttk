@@ -15,15 +15,15 @@ const sarath = {
     askMeAbout: ["web dev", "backend","frontend", "Info Sec","CLI Apps"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular","Angular.js (1.x)","Vanilla Javascript"],
+            js: ["React", "Angular","Angular.js (1.x)","Svelte","Vanilla Javascript"],
             css: ["Tailwindcss","sass","less"]
         },
         backEnd: {
-            js: ["node", "express","next.js","fastify","remix.js"],
+            js: ["node", "express","next.js","fastify","remix.js","hono.js"],
         },
-        devOps: ["Docker🐳", "Nginx"],
-        databases: ["MySQL", "Postgres", "mongo","sqlite","Redis"],
-        apiArchitecture: ["RestAPI","GraphQL"],
+        devOps: ["Docker🐳", "Nginx","Caddy"],
+        databases: ["MySQL", "Postgres", "MongoDB","SQLite","Redis"],
+        apiArchitecture: ["ReST API","GraphQL"],
         misc: ["Apollo GraphQL","Firebase", "Socket.IO","d3.js"],
     },
    
