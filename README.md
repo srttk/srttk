@@ -3,7 +3,7 @@
 ```javascript
 const sarath = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Go", "Bash"],
+    code: ["Javascript", "Typescript", "Rust 🦀", "Bash"],
     askMeAbout: ["web dev", "backend","frontend", "Info Sec","CLI Apps"],
     technologies: {
         frontEnd: {
